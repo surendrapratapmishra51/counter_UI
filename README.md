@@ -14,7 +14,7 @@ A minimal and interactive counter application built using **React**. Users can i
 
 ## 📸 Preview
 
-![Counter UI](counter-UI.png)
+![Counter UI](counter_UI.png)
 
 ---
 
